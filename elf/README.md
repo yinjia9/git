@@ -1,7 +1,11 @@
-### vue-饿了么商家页面
+### vue-饿了么商家页面  
+
 使用vue+vue-router+webpack+express+axios+better-scroll  
-没有写转场特效，小球动画，没使用css处理器。文件比较少(有部分组件没拆)，另外欢迎提意见，共同进步。
-本地启用data.json;线上使用easy-mock
+
+没有写转场特效，小球动画，没使用css处理器。文件比较少(有部分组件没拆)，另外欢迎提意见，共同进步。  
+
+本地启用data.json;线上使用easy-mock  
+
 项目预览https://ellaesis.github.io/git/elf/dist
   
 
