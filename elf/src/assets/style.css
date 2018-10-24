@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?i9y4ji');
+  src:  url('fonts/icomoon.eot?i9y4ji#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?i9y4ji') format('truetype'),
+    url('fonts/icomoon.woff?i9y4ji') format('woff'),
+    url('fonts/icomoon.svg?i9y4ji#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow_lift:before {
+  /*返回*/
+  content: "\e900";
+}
+.icon-thumb_up:before {
+  /*点好*/
+  content: "\e901";
+}
+.icon-thumb_down:before {
+  /*点不好*/
+  content: "\e902";
+}
+.icon-shopping_cart:before {
+  /*购物车*/
+  content: "\e903";
+}
+.icon-favorite:before {
+  /*收藏*/
+  content: "\e904";
+}
+.icon-check_circle:before {
+  /*单选*/
+  content: "\e905";
+}
+.icon-close:before {
+  /*关闭*/
+  content: "\e906";
+}
+.icon-remove_circle_outline:before {
+  /*减少*/
+  content: "\e907";
+}
+.icon-add_circle:before {
+  /*增加*/
+  content: "\e908";
+}
+.icon-keyboard_arrow_right:before {
+  /*右侧小箭头*/
+  content: "\e909";
+}
